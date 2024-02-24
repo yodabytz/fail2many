@@ -18,7 +18,7 @@ This shell script is designed to manage banned IP addresses in Fail2Ban by monit
     ```
 3. Ensure the script has executable permissions (`chmod +x fail2many.sh`).
 
-4. Configure tcpwrapers to use the blacklist file (`fail2many.txt`) in the `hosts.deny` configuration.
+4. Configure tcpwrappers to use the blacklist file (`fail2many.txt`) in the `hosts.deny` configuration.
 ALL : /etc/fail2many.txt
 
 ## License
