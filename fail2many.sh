@@ -1,4 +1,6 @@
 #!/bin/bash
+# Licensed under the MIT License.
+# Copyright 2024 Yodabytz
 
 threshold=3
 declare -A offenders
