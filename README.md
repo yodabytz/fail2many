@@ -28,6 +28,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contributions
 Contributions are welcome! Feel free to submit issues or pull requests to improve this script.
 
----
-
-Feel free to customize this README to include any additional information or instructions specific to your project. Let me know if you need further assistance!
